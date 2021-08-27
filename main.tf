@@ -11,8 +11,6 @@ terraform {
 # Configure the Microsoft Azure Resource Manager Provider
 provider "azurerm" {
   features {}
-
-  subscription_id = "2e369df1-a633-493a-813b-4cafbed19261"
 }
 
 # Current subscription
